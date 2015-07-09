@@ -1,0 +1,1 @@
+java -classpath .;dluc.jar com.epic.main.EpicMain

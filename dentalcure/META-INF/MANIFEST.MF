@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: dentalcure
+Bundle-SymbolicName: dentalcure
+Bundle-Version: 1.0.0.qualifier
+Export-Package: .,
+ com,
+ com.epic,
+ com.epic.action,
+ com.epic.common,
+ com.epic.main,
+ com.epic.widgets,
+ epicimage,
+ resource
